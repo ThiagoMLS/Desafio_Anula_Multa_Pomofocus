@@ -1,3 +1,8 @@
+![image](https://github.com/ThiagoMLS/Desafio_Anula_Multa_Pomofocus/assets/151270129/23548dd2-d898-4aba-8ae2-92c325604e3d)
+
+
+
+
 # Desafio Anula Multa - Pomofocus
 
 Desenvolvimento de um site semelhante ao pomodoro (https://pomofocus.io/), utilizando Node JS, Express, Prisma e PostgreSQL para Back-End e Next JS para Front-End.
