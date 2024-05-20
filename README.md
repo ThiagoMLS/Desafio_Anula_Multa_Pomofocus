@@ -1,6 +1,6 @@
 # Saudações, Rede!
 
-A seguir, encontra-se meu mais novo projeto Full-Stack, proposto pelo o CTO da Anula Multa, Caio Lucena Colaço, abaixo, seguem uma imagem, detalhes sobre o projeto e instruções para acessar.
+A seguir, encontra-se meu mais novo projeto Full-Stack, proposto pelo o CTO da Anula Multa, Caio Lucena Colaço, abaixo, segue uma imagem, detalhes sobre o projeto e instruções para acessar.
 
 ![image](https://github.com/ThiagoMLS/Desafio_Anula_Multa_Pomofocus/assets/151270129/23548dd2-d898-4aba-8ae2-92c325604e3d)
 
