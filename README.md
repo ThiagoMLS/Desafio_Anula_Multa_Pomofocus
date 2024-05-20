@@ -10,9 +10,11 @@ A seguir, encontra-se meu mais novo projeto Full-Stack, proposto pelo o CTO da A
 
 Desenvolvimento de um site semelhante ao pomodoro (https://pomofocus.io/), utilizando Node JS, Express, Prisma e PostgreSQL para Back-End e Next JS para Front-End.
 
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
+
+This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+
 
 First, run the development server:
 
